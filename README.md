@@ -1,9 +1,3 @@
-<div align="center">
-	<a href="https://twitter.com/Cripto_Bipolar" target="_blank">
-    	<img alt="Banner Cripto-Bipolar" title="Cripto-Bipolar" src="./.github/images/header.jpg" />
-    </a>
-</div>
-
 <h3 align="center">Cripto Bipolar</h3>
 <p align="center">Informações em tempo real sobre o valor das criptomoedas no seu feed do Twitter.</p>
 
